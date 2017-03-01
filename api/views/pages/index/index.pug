@@ -1,0 +1,15 @@
+doctype html
+html(lang="en", ng-app="Currency", ng-cloak)
+	head
+		include ../../partials/head/_allhead
+		//- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones
+		//- <link rel="canonical" href="http://www.example.com/">
+	body(ng-controller="AppCtrl as app")
+
+		// Main Content
+		header
+			navbar
+		main
+			.main-content(autoscroll="true")
+				ui-view
+		include ../../partials/scripts/_allscripts

@@ -1,0 +1,12 @@
+header {
+	.transparent {
+		background-color: transparent;
+		-webkit-transition: background-color 1s;
+		-moz-transition: background-color 1s;
+		-ms-transition: background-color 1s;
+		-o-transition: background-color 1s;
+		transition: background-color 1s;
+	}
+	.transparent:hover { background-color: grey; }
+	hr { margin: 0; }
+}

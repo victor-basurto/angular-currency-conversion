@@ -1,0 +1,24 @@
+{
+	"pages": [{
+		"name": "Home",
+		"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum tenetur, laudantium. Blanditiis, fugit distinctio. Assumenda aperiam molestias quod, consequatur repudiandae, eveniet nemo hic maxime ut dicta tenetur mollitia, dolor consectetur."
+	}, {
+		"name": "Info",
+		"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum tenetur, laudantium. Blanditiis, fugit distinctio. Assumenda aperiam molestias quod, consequatur repudiandae, eveniet nemo hic maxime ut dicta tenetur mollitia, dolor consectetur."
+	}, {
+		"name": "More Projects",
+		"content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum tenetur, laudantium. Blanditiis, fugit distinctio. Assumenda aperiam molestias quod, consequatur repudiandae, eveniet nemo hic maxime ut dicta tenetur mollitia, dolor consectetur."
+	}],
+
+	"utils": {
+		"appName": "Currency App",
+		"curr": "Currency",
+		"email": "E-Mail",
+		"home": "Home",
+		"initSes": "Init Session",
+		"login": "Login",
+		"name": "Name",
+		"pass": "Password",
+		"submit": "Submit",
+	}
+}

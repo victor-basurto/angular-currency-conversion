@@ -1,0 +1,37 @@
+{
+	"navigation": {
+		"abbr": "currency",
+		"name": "Currency App",
+		"items": [{
+			"name": "Home",
+			"link": "/"
+		}, {
+			"name": "Info",
+			"link": "/info"
+		}, {
+			"name": "More Projects",
+			"link": "/more-projects"
+		}]
+	},
+
+	"footer": {
+		"copyright": "@copy; Copyright 2017 by Victor Basurto. All Rights Reserved.",
+		"copyrightContent": "Currency Converter is optimized for learning, testing, and training. Examples might be simplified to improve reading and basic understanding. Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness of all content. While using this site, you agree to have read and accepted our terms of use, cookie and privacy policy.",
+		"items": [{
+			"name": "Github Account",
+			"link": "https://github.com/victor-basurto/"
+		}, {
+			"name": "TODO-App",
+			"link": "https://angular-todo-app.herokuapp.com/"
+		}, {
+			"name": "Personal Info/Website",
+			"link": "https://victor-basurto.herokuapp.com/"
+		}, {
+			"name": "Safer Smog",
+			"link": "http://www.safersmog.com"
+		}, {
+			"name": "Source Code",
+			"link": "Pending"
+		}]
+	}
+}

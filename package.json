@@ -1,0 +1,34 @@
+{
+  "name": "currency-app",
+  "version": "1.0.0",
+  "description": "Display Currency from API",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "author": "victor basurto",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "dotenv": "^4.0.0",
+    "express": "~4.14.0",
+    "method-override": "~2.3.6",
+    "mongoose": "~4.6.8",
+    "money": "~0.2.0",
+    "morgan": "~1.7.0",
+    "request": "~2.79.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-autoprefixer": "~3.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.4"
+  }
+}

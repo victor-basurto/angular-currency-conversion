@@ -1,0 +1,1 @@
+angular.module( 'Currency.Shared', [ 'App.shared', 'CurrencyAPI.shared' ] );

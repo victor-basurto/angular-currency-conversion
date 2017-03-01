@@ -1,0 +1,36 @@
+{
+    "countries": [{
+        "country": "Argentine Peso",
+        "abbr": "ARS"
+    }, {
+        "country": "Bolivian Boliviano",
+        "abbr": "BOB"
+    }, {
+        "country": "Bitcoin",
+        "abbr": "BTC"
+    }, {
+        "country": "Colombian Peso",
+        "abbr": "COP"
+    }, {
+        "country": "Euro",
+        "abbr": "EUR"
+    }, {
+        "country": "Mexican Peso",
+        "abbr": "MXN"
+    }, {
+        "country": "Dolar",
+        "abbr": "USD"
+    }, {
+        "country": "Costa Rica Colon",
+        "abbr": "CRC"
+    }, {
+        "country": "Chilean Peso",
+        "abbr": "CLP"
+    }, {
+        "country": "Dominican Peso",
+        "abbr": "DOP"
+    }, {
+        "country": "Panamian Balboa",
+        "abbr": "PAB"
+    }]
+}
